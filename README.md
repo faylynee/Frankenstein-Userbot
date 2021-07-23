@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="./resources/extras/logo_readme.jpg">
-</p>
+
 <h1 align="center">
   <b> Frankenstein - UserBot</b>
 </h1>
