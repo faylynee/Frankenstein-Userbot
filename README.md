@@ -2,7 +2,7 @@
   <img src="./resources/extras/logo_readme.jpg">
 </p>
 <h1 align="center">
-  <b>🌸 Sakura - UserBot</b>
+  <b> Frankenstein - UserBot</b>
 </h1>
 
 <b>A stable pluggable Telegram userbot + vc music bot, based on Telethon.</b>   
